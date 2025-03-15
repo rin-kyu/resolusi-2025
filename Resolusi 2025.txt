@@ -1,0 +1,5 @@
+Resolusiku ditahun 2025
+-belajar Front end web
+-menguasai HTML
+-menguasai CSS
+-menguasai Javascript
