@@ -3,3 +3,4 @@ Resolusiku ditahun 2025
 -menguasai HTML
 -menguasai CSS
 -menguasai Javascript
+-belajar Framework
