@@ -3,6 +3,7 @@ Resolusiku ditahun 2025
 -menguasai HTML
 -menguasai CSS
 -menguasai Javascript
--belajar Framework
+-belajar ract
 -belajar PHP
 -belajar laravel
+-belajar database
